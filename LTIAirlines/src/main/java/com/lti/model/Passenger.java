@@ -7,8 +7,6 @@ public class Passenger {
 	String address;
 	int age;
 	
-	
-
 	public int getPassengerId() {
 		return passengerId;
 	}
