@@ -4,6 +4,7 @@ public class Booking {
 
 	int bookingId;
 	Flight flight;
+	
 	public int getBookingId() {
 		return bookingId;
 	}
