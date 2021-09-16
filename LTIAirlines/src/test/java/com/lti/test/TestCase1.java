@@ -25,18 +25,7 @@ public class TestCase1 {
 	}
 	
 	
-	@Test
-	public void testObjects()
-	{
-		Flight f1=new Flight(101,"Hyderabad","Mumbai");
-		Flight f2=new Flight(101,"Hyderabad","Mumbai");
-		//Flight f2=f1;
-		
-		assertSame("Objects are not same",f1, f2);
-		//assertEquals(f1,f2);
-		
-		
-	}
+
 	
 
 }
