@@ -16,7 +16,5 @@ public class Ticket {
 	public void setSeatNo(int seatNo) {
 		this.seatNo = seatNo;
 	}
-	
-	
 
 }
